@@ -9,30 +9,19 @@ header {
     padding: 20px;
 }
 
-contenido {
-    margin-top: 40px;
-}
-
-img {
-    width: 300 px;
-    height: 300 px;
-}
-
-container {
+.container {
     display: flex; 
 }
 
 .columna {
-    flex: 2; 
+    flex: 1; 
     padding: 20px;
-    border-style: solid;
-    display: flexbox;
-    }
+}
 
-
-
-
-
+.columnas {
+    background-color: antiquewhite;
+    padding: 10px 15px 10px 10px;
+}
 
 
 
