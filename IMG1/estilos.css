@@ -1,0 +1,26 @@
+body {
+    background-color: #3b98db;
+    font-family: arial
+}
+img {
+    width:400px;
+    height:400px;
+    border-radius:300px;
+}
+
+nav ul {
+    list-style-type: none;
+}
+nav li {
+    display: inline;
+}
+header {
+    background-color: #3b98db;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+a {
+    opacity: 0.5;
+}
